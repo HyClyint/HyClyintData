@@ -3,5 +3,6 @@
 	"changelogs": [
 		"Version: 1.0.1",
 		"[+] Fixed crashes when logging in from the client"
-	]
+	],
+	"doesRequireConfigWipe": true
 }
