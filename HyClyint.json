@@ -1,8 +1,1 @@
-{
-	"version": "1.0.1",
-	"changelogs": [
-		"Version: 1.0.1",
-		"[+] Fixed crashes when logging in from the client"
-	],
-	"wipeConfig": true
-}
+{"version": "0.0.2", "changelogs": [], "wipeConfig": false}
