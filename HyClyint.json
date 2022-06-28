@@ -1,8 +1,9 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "changelogs": [
-        "<h1 style=\"width: 100%;text-align: center;\">HyClyint version 0.1.0</h1>",
-        "This is a beta release nothing much xD",
+        "<h1 style=\"width: 100%;text-align: center;\">HyClyint version 0.1.1</h1>",
+        "Im sorry bout the login glitch",
+        "Now its fixed lol",
         "Thanks for using HyClyint"
     ],
     "wipeConfig": false
