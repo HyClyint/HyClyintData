@@ -1,1 +1,9 @@
-{"version": "0.0.2", "changelogs": [], "wipeConfig": false}
+{
+    "version": "0.1.0",
+    "changelogs": [
+        "<h1 style=\"width: 100%;text-align: center;\">HyClyint version 0.1.0</h1>",
+        "This is a beta release nothing much xD",
+        "Thanks for using HyClyint"
+    ],
+    "wipeConfig": false
+}
