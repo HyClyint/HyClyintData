@@ -1,10 +1,16 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "changelogs": [
-        "<h1 style=\"width: 100%;text-align: center;\">HyClyint version 0.1.1</h1>",
-        "Im sorry bout the login glitch",
-        "Now its fixed lol",
-        "Thanks for using HyClyint"
+        "<h1 style=\"width: 100%;text-align: center;\">HyClyint version 0.1.2</h1>",
+        "Not much updates again <p style=\"color: red;\">im sorry</p>",
+        "Anyways here are the changelogs",
+        "",
+        "[+] Fixed toggle sprint from turning off when you die",
+        "[+] Made sure that the mods update on the hud edit mode",
+        "",
+        "Thanks for using HyClyint",
+        "",
+        "-NichuNaizam"
     ],
     "wipeConfig": false
 }
