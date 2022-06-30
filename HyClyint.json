@@ -1,17 +1,15 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "changelogs": [
-        "<h1 style=\"width: 100%;text-align: center;\">HyClyint version 0.1.3</h1>",
+        "<h1 style=\"width: 100%;text-align: center;\">HyClyint version 0.1.4</h1>",
+        "<h1 style=\"width: 100%;text-align: center;color: red;\">BUG FIXES WOOOOOO</h1>",
         "Changelogs",
         "",
-        "[+] Added 1.7 animations mod (Still buggy)",
-        "[+] Chat background always disabled",
-        "[+] Shows HyClyint logo on tab",
-        "[+] Render nametag on F5",
+        "[+] Moved capes to cloud server",
+        "[+] Now it reconnects to HySocket on disconnection....",
+        "[+] New booster cape released",
         "",
-        "Thanks for using HyClyint",
-        "",
-        "-NichuNaizam"
+        "Thats it lol, hope you have fun with it"
     ],
     "wipeConfig": false
 }
