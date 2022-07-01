@@ -1,9 +1,9 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.4.1",
     "changelogs": [
-        "<h1 style=\"width: 100%;text-align: center;\">HyClyint version 0.1.4</h1>",
-        "<h1 style=\"width: 100%;text-align: center;color: red;\">BUG FIXES WOOOOOO</h1>",
-        "Changelogs",
+        "<h1 style=\"width: 100%;text-align: center;\">HyClyint version 0.1.4.1</h1>",
+        "<h1 style=\"width: 100%;text-align: center;color: red;\">Fixed the startup crash</h1>",
+        "Old Changelogs",
         "",
         "[+] Moved capes to cloud server",
         "[+] Now it reconnects to HySocket on disconnection....",
