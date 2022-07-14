@@ -1,13 +1,12 @@
 {
-    "version": "0.1.4.1",
+    "version": "0.1.4.2",
     "changelogs": [
-        "<h1 style=\"width: 100%;text-align: center;\">HyClyint version 0.1.4.1</h1>",
-        "<h1 style=\"width: 100%;text-align: center;color: red;\">Fixed the startup crash</h1>",
-        "Old Changelogs",
+        "<h1 style=\"width: 100%;text-align: center;\">HyClyint version 0.1.4.2</h1>",
+        "<h1 style=\"width: 100%;text-align: center;color: red;\">Finnaly added mod options</h1>",
+        "Changelogs",
         "",
-        "[+] Moved capes to cloud server",
-        "[+] Now it reconnects to HySocket on disconnection....",
-        "[+] New booster cape released",
+        "[+] Added Mod options",
+        "[+] Animations mod is now better",
         "",
         "Thats it lol, hope you have fun with it"
     ],
